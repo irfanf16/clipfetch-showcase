@@ -7,7 +7,7 @@ A fast, single-purpose video downloader with all resolution handled server-side 
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Full-stack engineer — sole developer.
+Full-stack engineer
 
 ## Engineering highlights
 
