@@ -20,12 +20,6 @@ Full-stack engineer
 **Minimal dependency surface.** Deliberately built on Next.js and React alone — no UI framework — keeping bundle size small for a single-purpose tool.
 
 
-## Screenshots
-
-<!-- ![Home](docs/home.png) -->
-<!-- ![Result](docs/result.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
